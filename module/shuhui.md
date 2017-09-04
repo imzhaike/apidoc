@@ -7,6 +7,7 @@
 
 响应JSON: 
 
+```json 
 {
     "status": 1,
     "msg": "success",
@@ -48,3 +49,4 @@
     "count": 3 // 当前页条数
 } 
 
+```
