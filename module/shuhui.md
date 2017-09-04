@@ -2,8 +2,11 @@
 
 请求url: `https://v.imzhaike.com/Apiv2/Module/shuhui_all`  
 
-请求参数: int page(第几页，每页20条)  
+请求参数: 
 
+| 参数 | 必填 | 默认 |说明 |
+| --- | --- | --- | --- |
+| page | 否 | 1 |第几页，每页20条 |
 
 响应JSON: 
 
