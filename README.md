@@ -1,6 +1,6 @@
 《神秘商店API说明文档》
 ===================
-api document for heiyd.com
+
 
 
 
